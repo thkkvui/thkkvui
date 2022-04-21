@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thkkvui
 - 👀 I’m interested in deploying my personal voice AI.
 - 🌱 I’m currently learning NLP, NLU, and all of data science.
-- 💞️ I’m looking to collaborate on ... ... ... i'm always wondering what i should collaborate on. Please give me an idea.
+- 💞️ I’m looking to collaborate on ... ... ... i'm always wondering what i should collaborate on.
 - 📫 How to reach me --> i have a twitter account "thkkvui". Please find me.
 
 <!---
